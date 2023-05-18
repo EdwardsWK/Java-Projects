@@ -16,3 +16,5 @@ Each project is designed to demonstrate different programming concepts and techn
 ## License
 
 This repository is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE.md) file for details.
+
+#### Thank you for your interest in this repository!
